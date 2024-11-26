@@ -1,6 +1,6 @@
 # 我们如何对开发者进行能力分级评定
 
-我们将能力者分为 LV0 到 LV5 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有maintainer以及line manager通过[德尔菲技术](https://chicagomti.com/pmp-effective-voting-techniques-for-decision-making/)多轮投票共同得出。
+我们将能力者分为 LV0 到 LV5 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有maintainer以及line manager通过[德尔菲技术](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp)多轮投票共同得出。
 
 ## LV5 超能力者
 
@@ -46,7 +46,7 @@ LV4 起可以作为maintainer的重点培养对象。
 - 能够自己进行软件调试，调试自己的代码。会使用 gdb。
 - 知道并使用过 make、cmake 等构建脚本工具。
 
-这是成为compiler ecosystem开发人员的必要条件。这一级主要是知识技能型要求，即使是非全职的业余贡献者，原则上也需要达到这个水准。否则很难展开工作。
+L2是成为compiler ecosystem开发人员的必要条件。这一级主要是知识技能型要求，即使是非全职的业余贡献者，原则上也需要达到这个水准。否则很难展开工作。
 
 ## LV1 低能力者
 
