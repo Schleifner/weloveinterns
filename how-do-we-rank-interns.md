@@ -1,6 +1,6 @@
-# 我们如何对实习生进行能力分级评定
+# 我们如何对开发者进行能力分级评定
 
-我们模仿常盘台中学经验将能力者分为 LV0 到 LV5 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有maintainer以及line manager通过多轮投票共同得出。
+我们将能力者分为 LV0 到 LV5 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有maintainer以及line manager通过[德尔菲技术](https://chicagomti.com/pmp-effective-voting-techniques-for-decision-making/)多轮投票共同得出。
 
 ## LV5 超能力者
 
@@ -9,7 +9,7 @@
 - 有能力应对各类突发情况，并代表团队与 line manager 沟通。
 - 对于公司内使用WebAssembly技术的业务有深入理解，能够协助相关方进行持续改进。
 
-L5默认获得maintainer权限。
+L5会获得maintainer权限。
 
 ## LV4 大能力者
 
