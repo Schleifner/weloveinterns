@@ -38,7 +38,7 @@ LV4 起可以作为maintainer的重点培养对象。
 
 - 在 LV1 基础上，对于数据结构、算法导论、计算机组成原理/微机原理/计算机体系结构、现代数据库原理等课程有比较系统的了解，学习过，能够快速的复习和掌握。
 - 对编译原理、计算机网络、现代操作系统三门课程的知识，要有比较好的理解和记忆。
-- 能够独立完成[Tiny-Wasm-Compiler-Learn](https://github.com/Schleifner/Tiny-Wasm-Compiler-Learn.git)中的全部任务，或者有等效的实践经验，如共享过gcc, llvm, v8等。
+- 能够独立完成[Tiny-Wasm-Compiler-Learn](https://github.com/Schleifner/Tiny-Wasm-Compiler-Learn.git)中的全部任务，或者有等效的实践经验，如参与或技术分享过gcc, llvm, v8等项目。
 - 能够熟练使用 Linux 命令行工具，包括 find、grep、sed 等，熟练使用不同小工具的参数和组合完成日常的任务。
 - 能够熟练使用 git 进行团队代码合作。
 - 在 core dev指导下进行局部代码更改，小功能的开发和测试。
