@@ -1,4 +1,20 @@
-# Knowledge Breakdown from 2 to 3
+# Knowledge Breakdown from 1 to 2
+
+This document provides the technical references and scoring criteria necessary to achieve Level 2. Currently, the scores can only serve as qualitative references and cannot be used to determine promotion standards based on the scores.
+
+## Rating Criteria
+
+Each item is scored and can be precise to 0.5 points, divided into four levels.
+
+0. Completely unaware
+1. No practical experience
+2. Worked under someone’s guidance or followed step-by-step tutorials
+3. Worked independently
+4. Guided others
+
+For projects related to computer organization principles and operating system principles, "worked on" can be understood as having used this knowledge to solve practical problems, without requiring the implementation of circuits or kernels.
+
+## Items
 
 - Compilation
 
@@ -14,12 +30,12 @@
   - Instruction Scheduler
   - Register Allocation
 
-- computer organization principles.</br>
-  Here it is required to have a basic understanding of the operating principles and characteristics of various computer components, but circuit design is not required.
+- Computer organization principles.
 
   - Number Systems and Encoding
   - CPU
-    - ALU and FPU
+    - ALU
+    - FPU
     - Instruction fetch and decoding
     - Cache
     - CPU pipeline

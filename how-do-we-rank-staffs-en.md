@@ -47,7 +47,7 @@ Reaching LV3 is the minimum requirement for the core dev team.
 - Knows and has used build script tools like make, cmake, can understand and modify Makefile, and can handle simple CMake configuration issues.
 
 L2 is a necessary condition to become a compiler ecosystem developer. This level mainly requires knowledge and skills, and even part-time contributors are generally expected to reach this level. Otherwise, it is difficult to carry out the work.
-More detailed calcification of Lv2 is in [rank2-3.md](./rank2-3.md)
+More detailed calcification of Lv2 is in [rank1-2.md](./rank1-2.md)
 
 ## LV1
 
