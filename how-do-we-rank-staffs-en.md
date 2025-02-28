@@ -1,6 +1,6 @@
 # How We Evaluate Developers' Skill Levels
 
-We classify abilities into six different levels, from LV0 to LV5. Upon reaching different ability levels, individuals possess corresponding skills and take on appropriate responsibilities. The ability level evaluation is determined through multiple rounds of voting using the [Delphi technique](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp) by current maintainers and the line manager. Ratings must be conducted level by level, and skipping levels is not allowed. In particular, individuals lacking technical skills are not permitted to skip LV2 and be promoted to LV3+.
+We classify abilities into six different levels, from LV0 to LV5. Upon reaching different ability levels, individuals possess corresponding skills and take on appropriate responsibilities. The ability level evaluation is determined through multiple rounds of voting using the [Delphi technique](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp) by current maintainers and the line manager. **Ratings must be conducted level by level, and skipping levels is not allowed**. In particular, individuals lacking technical skills are not permitted to skip LV2 and be promoted to LV3+.
 
 ## LV5
 
@@ -38,7 +38,7 @@ Reaching LV3 is the minimum requirement for the core dev team.
 
 - Based on LV1, has a systematic understanding of courses such as data structures, introduction to algorithms, computer organization principles/microcomputer principles/computer architecture, and modern database principles, has studied them, and can quickly review and master them.
 - Has a good understanding and memory of the knowledge from the three courses: compiler principles, principles/microcomputer principles/computer, and modern operating systems.
-- Able to independently complete all tasks in [Tiny-Wasm-Compiler-Learn](https://github.com/Schleifner/Tiny-Wasm-Compiler-Learn.git), or has equivalent practical experience, such as participating in or sharing technology about gcc, llvm, v8 projects.
+- Able to independently complete all tasks in [Tiny-Wasm-Compiler-Learn](https://github.com/Schleifner/Tiny-Wasm-Compiler-Learn.git), or has equivalent **practical experience**(Note: Practical experience is not equivalent to work experience. Major assignments, course projects, experiments, etc., can also be considered as practical experience.), such as participating in or sharing technology about gcc, llvm, v8 projects.
 - Proficient in using Linux command-line tools, including find, grep, sed, etc., and proficient in using different tool parameters and combinations to complete daily tasks.
 - Proficient in using git for team code collaboration.
 - Able to make local code changes, develop and test small features under the guidance of core dev.
