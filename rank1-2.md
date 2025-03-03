@@ -49,18 +49,14 @@ For projects related to computer organization principles and operating system pr
 |                                  | Instruction Scheduler                                                     | 1      |       |
 |                                  | Register Allocation                                                       | 1      |       |
 | Computer organization principles | Number Systems and Encoding                                               | 1      |       |
-|                                  | CPU                                                                       | 1      |       |
 |                                  | ALU                                                                       | 1      |       |
 |                                  | FPU                                                                       | 1      |       |
 |                                  | Instruction fetch and decoding                                            | 1      |       |
 |                                  | Cache                                                                     | 1      |       |
 |                                  | CPU pipeline                                                              | 1      |       |
 |                                  | Instruction set architecture (ISA)                                        | 1      |       |
-|                                  | Memory                                                                    | 1      |       |
-|                                  | RAM                                                                       | 1      |       |
-|                                  | ROM/Flash                                                                 | 1      |       |
+|                                  | ROM/Flash/Persistent storage                                              | 1      |       |
 |                                  | Interrupt system                                                          | 1      |       |
-|                                  | Multi-core processors                                                     | 1      |       |
 |                                  | Basic concepts of parallel processing                                     | 1      |       |
 |                                  | Atomic instructions                                                       | 1      |       |
 | Operating System Principle       | Virtual memory and Memory hierarchy                                       | 1      |       |
