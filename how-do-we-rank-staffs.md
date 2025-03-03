@@ -1,6 +1,6 @@
 # 我们如何对开发者进行能力分级评定
 
-我们将能力者分为 LV0 到 LV5 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有 maintainer 以及 line manager 通过[德尔菲技术](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp)多轮投票共同得出。评级必须逐级进行，不允许跳级。尤其不允许缺乏技术技能的人跳过 LV2 升任 LV3+。
+我们将能力者分为 LV0 到 LV5 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有 maintainer 以及 line manager 通过[德尔菲技术](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp)多轮投票共同得出。**评级必须逐级进行，不允许跳级**。尤其不允许缺乏技术技能的人跳过 LV2 升任 LV3+。
 
 ## LV5
 
@@ -38,7 +38,7 @@ LV4 起可以作为 maintainer 的重点培养对象。
 
 - 在 LV1 基础上，对于数据结构、算法导论、计算机组成原理/微机原理/计算机体系结构、现代数据库原理等课程有比较系统的了解，学习过，能够快速的复习和掌握。
 - 对编译原理、计算机组成原理、现代操作系统三门课程的知识，要有比较好的理解和记忆。
-- 能够独立完成[Tiny-Wasm-Compiler-Learn](https://github.com/Schleifner/Tiny-Wasm-Compiler-Learn.git)中的全部任务，或者有等效的实践经验，如参与或技术分享过 gcc, llvm, v8 等项目。
+- 能够独立完成[Tiny-Wasm-Compiler-Learn](https://github.com/Schleifner/Tiny-Wasm-Compiler-Learn.git)中的全部任务，或者有等效的**实践经验**(注：实践经验不等于工作经验，大作业，课程设计，实验等也可视作实践经验)，如参与或技术分享过 gcc, llvm, v8 等项目。
 - 能够熟练使用 Linux 命令行工具，包括 find、grep、sed 等，熟练使用不同小工具的参数和组合完成日常的任务。
 - 能够熟练使用 git 进行团队代码合作。
 - 在 core dev 指导下进行局部代码更改，小功能的开发和测试。
