@@ -2,6 +2,8 @@
 
 This document provides the technical references and scoring criteria necessary to achieve Level 2. Currently, the scores can only serve as qualitative references and cannot be used to determine promotion standards based on the scores.
 
+## LV2 requires developer with `final point >= 31`.
+
 ## Score Criteria
 
 Each item is scored and can be precise to 0.5 points, divided into score 0-4.
@@ -48,10 +50,7 @@ For projects related to computer organization principles and operating system pr
 |                                  | Instruction Select                                                        | 1      |       |
 |                                  | Instruction Scheduler                                                     | 1      |       |
 |                                  | Register Allocation                                                       | 1      |       |
-| Computer organization principles | Number Systems and Encoding                                               | 1      |       |
-|                                  | ALU                                                                       | 1      |       |
-|                                  | FPU                                                                       | 1      |       |
-|                                  | Instruction fetch and decoding                                            | 1      |       |
+| Computer organization principles | Instruction fetch and decoding                                            | 1      |       |
 |                                  | Cache                                                                     | 1      |       |
 |                                  | CPU pipeline                                                              | 1      |       |
 |                                  | Instruction set architecture (ISA)                                        | 1      |       |
@@ -61,10 +60,10 @@ For projects related to computer organization principles and operating system pr
 |                                  | Atomic instructions                                                       | 1      |       |
 | Operating System Principle       | Virtual memory and Memory hierarchy                                       | 1      |       |
 |                                  | Memory allocation techniques                                              | 1      |       |
-|                                  | Posix interface                                                           | 1      |       |
+|                                  | Posix interface                                                           | 0.6    |       |
 |                                  | Context switching                                                         | 1      |       |
 |                                  | Characteristics of Real-Time Operating Systems                            | 1      |       |
-|                                  | socket and network                                                        | 1      |       |
+|                                  | socket and network                                                        | 0.3    |       |
 | Algorithms and Data Structures   | Stack                                                                     | 0      |       |
 |                                  | Dynamic length array                                                      | 0      |       |
 |                                  | Linked list                                                               | 0      |       |
