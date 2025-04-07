@@ -17,20 +17,24 @@ Each item is scored and can be precise to 0.5 points, divided into score 0-4.
 
   Description: the developer has a basic understanding, knows some basic concepts and terms, but lacks in-depth understanding and practical experience.
   Explanation: the developer can explain basic concept, but is not familiar with specific algorithms or implementation details. The developer also doesn't have practice experience in this domain.
+  Example: The developers took relevant courses in university, passed the exams, but never actually wrote code hands-on.
 
 - Score 2: Moderately Familiar
 
   Description: the developer has a certain understanding, can explain major algorithms and techniques, and has some practical application experience.
   Explanation: The developer can describe some common algorithms, and has applied these techniques in simple projects under someone's guidance, for example the developer worked under guide of an experienced colleague or developed a study project with a followed step-by-step tutorials.
+  Example: Developers implemented Labs in university, open source tutorials like Kaleidoscope or made minor, localized changes in a medium to large-scale project
 
 - Score 3: Proficient
 
   Description: the developer is very familiar with this domain, can deeply understand and apply various algorithms, and already used these techniques in complex compiler projects independently.
   Explanation: the developer can explain complex principle in detail, and has the experience of implementation and debug independently.
+  Example: Developers independently designed and implemented a functional module in a compiler.
 
 - Score 4: Expert
   Description: the developer has expert-level knowledge and experience in this domain, and has mentored others work experience.
   Explanation: the developer can not only apply existing algorithms but also propose improvements and optimization ideas, and has guided others work.
+  Example: Developers guided and coached other LV2+ developers
 
 Note: The scoring criteria must be based on past practice. For example, if a programmer believes they can work independently but has only worked under guidance, their score of that item should be 2 instead of 3.
 
