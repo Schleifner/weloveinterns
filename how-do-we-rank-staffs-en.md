@@ -1,6 +1,9 @@
 # How We Evaluate Developers' Skill Levels
 
-We classify abilities into six different levels, from LV0 to LV5. Upon reaching different ability levels, individuals possess corresponding skills and take on appropriate responsibilities. The ability level evaluation is determined through multiple rounds of voting using the [Delphi technique](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp) by current maintainers and the line manager. **Ratings must be conducted level by level, and skipping levels is not allowed**. In particular, individuals lacking technical skills are not permitted to skip LV2 and be promoted to LV3+.
+We classify abilities into six different levels, from LV0 to LV6. Upon reaching different ability levels, individuals possess corresponding skills and take on appropriate responsibilities. The ability level evaluation is determined through multiple rounds of voting using the [Delphi technique](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp) by current maintainers and the line manager. **Ratings must be conducted level by level, and skipping levels is not allowed**. In particular, individuals lacking technical skills are not permitted to skip LV2 and be promoted to LV3+.
+
+## LV6
+- Building on LV5, has a deep understanding of the WebAssembly specifications, cutting-edge papers on modern compilers, etc., and can apply these frontier technologies to projects.
 
 ## LV5
 

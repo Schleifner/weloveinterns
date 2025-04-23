@@ -1,6 +1,9 @@
 # 我们如何对开发者进行能力分级评定
 
-我们将能力者分为 LV0 到 LV5 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有 maintainer 以及 line manager 通过[德尔菲技术](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp)多轮投票共同得出。**评级必须逐级进行，不允许跳级**。尤其不允许缺乏技术技能的人跳过 LV2 升任 LV3+。
+我们将能力者分为 LV0 到 LV6 六种不同的程度。达到不同的能力等级之后，具备对应的能力，承担相应的责任。能力等级评定由现有 maintainer 以及 line manager 通过[德尔菲技术](https://www.knowledgehut.com/blog/project-management/delphi-technique-in-pmp)多轮投票共同得出。**评级必须逐级进行，不允许跳级**。尤其不允许缺乏技术技能的人跳过 LV2 升任 LV3+。
+
+## LV6
+- 在LV5基础上，对WebAssembly规范，现代编译器的前沿论文等有深入了解，并且能将这些前沿技术应用到项目中
 
 ## LV5
 
